@@ -22,4 +22,5 @@ card is dealt.
 ----------------
 APPROACH
 ----------------
-For sake of simplicity, I implemented the program using enums for ranks and suits with the card. I also created the playing card deck using arrays to properly illustrate the manual shuffle method. I also implemented a dealCard and resetDeck function to enable multiple playing sessions. 
+For sake of simplicity, I implemented the program using enums for ranks and suits of the card. I used arrays to illustrate the 52 card standard playing deck.
+Methods implemented include: shuffle, dealCard and resetDeck  to enable multiple playing sessions. 
