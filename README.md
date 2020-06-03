@@ -24,3 +24,4 @@ APPROACH
 ----------------
 For sake of simplicity, I implemented the program using enums for ranks and suits of the card. I used arrays to illustrate the 52 card standard playing deck.
 Methods implemented include: shuffle, dealCard and resetDeck  to enable multiple playing sessions. 
+Included test cases in the main method of DeckOfCards class. Avoided creating a JUnit test class with Assert statements based on the simplicity and number of methods asked to implement
